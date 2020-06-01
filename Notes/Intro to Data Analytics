@@ -1,0 +1,85 @@
+PROJECT GORILLA
+
+TOPIC: INTRO TO DATA ANALYTICS
+
+********* SESSION 1 **************
+
+1. What is Statistical Analysis?
+		Why it is needed?
+		What do we do?
+		Where do we do it?
+		
+		Descriptive Statistics (with Examples)
+		Inferential Statistics (with Examples)
+		
+2. A brief introduction to Statistics
+	Some Terminologies
+		- Probability
+		- Distribution
+		- Mean, Median, Mode
+		- Range
+		- IQR
+
+3. What do we do in Data Analytics?
+	A typical Project workflow
+	
+	Typical Dataset
+	Variables
+		Categorical
+	Exploratory Data Analysis
+		Univariate Analysis
+			Describe function in python 
+			Plots using matplotlib and Seaborn
+				Boxplot
+				Joint plot
+				Density plot
+				Violin plot
+		Bivariate Analysis
+			Table
+			Plots
+				Scatter plot
+				scatter plot with a regression line
+				Bar chart
+				Line plot
+		Multivariate Analysis
+
+********* SESSION 2 **************		
+	
+	Have an intuition about data
+		Perform EDA and draw inferences
+			From Tables and descriptive statistics
+				(Eg. Correlation, Table)
+		
+		Hypothesis Testing
+			Statistical Tests (pvalue, CI)
+				t-test
+				Chi-sq test
+				ANOVA 
+				Correlation plot
+
+********* SESSION 3 **************	
+
+	Data Pre-processing
+		Data Cleaning
+			Missing Values
+				What do N/A values tell you? They have a story too.
+				NA treatment
+					When to Impute?
+						Imputation techniques
+					When not to Impute?
+		
+		Data Formatting
+			Converting variables 
+			One hot encoding
+		
+	Feature Selection
+			- Variance
+			- Covariance
+			- Correlation
+		Feature Selection techniques
+			Conceptual Model (domain knowledge)
+			Forward Selection
+			Backward Selection
+			Stepwise
+			
+		
