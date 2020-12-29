@@ -1,5 +1,5 @@
 # Project-Gorilla
-My attempt at mentoring a bunch of humble students from various domains on Naxxatra Discussions by tutoring them with an Introduction to Data Analytics.
+My attempt at mentoring a bunch of humble students from various background with an Introduction to Data Analytics as part of Naxxatra discussions.
 
 The mini lecture series covered below topics
   1. Introduction to Data Analytics
